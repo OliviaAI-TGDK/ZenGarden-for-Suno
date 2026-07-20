@@ -1,4 +1,4 @@
-OliviaAI 144D Electronic Foundation
+144D Electronic Foundation
 BPM: 118
 Frequency_Hz: 432
 
