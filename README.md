@@ -150,11 +150,6 @@ Style profiles help maintain consistency across singles and albums.
    cd ZenGarden
    ```
 
-3. Install requirements:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ---
 
 # 🎼 Usage
@@ -163,6 +158,8 @@ Style profiles help maintain consistency across singles and albums.
 ```bash
 python ZenGarden.py BPM:128 Frequency_Hz:144 profile:StyleProfile.txt
 ```
+
+### Copy Prompt:
 
 ---
 
