@@ -161,7 +161,7 @@ Style profiles help maintain consistency across singles and albums.
 
 ### Run ZenGarden:
 ```bash
-python ZenGarden.py
+python ZenGarden.py BPM:128 Frequency_Hz:144 profile:StyleProfile.txt
 ```
 
 ---
@@ -225,7 +225,7 @@ ZenGarden is designed for:
 
 ```
 ZenGarden/
-├── SongTitle.txt
+├── StyleProfile.txt
 └── ZenGarden.py
 ```
 
