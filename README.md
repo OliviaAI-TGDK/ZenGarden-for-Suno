@@ -226,6 +226,7 @@ fce4ac94130c4097df7deeb1331eca79df325cb80ed215a6a670d085b0793280bd1d61f8c57e76a6
 ```
 
 ### Paste Prompt as Suno Style:
+![Style Prompt](https://github.com/OliviaAI-TGDK/ZenGarden-for-Suno/blob/main/Assets/Screenshot_20260720-030132~2.png)
 
 ---
 
