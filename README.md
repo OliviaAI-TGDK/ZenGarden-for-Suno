@@ -164,21 +164,6 @@ Style profiles help maintain consistency across singles and albums.
 python ZenGarden.py
 ```
 
-### Load an Artist Profile:
-```bash
-python ZenGarden.py --profile Gnocchi
-```
-
-### Create a Song Concept:
-```bash
-python ZenGarden.py --create-song
-```
-
-### Apply a Style Direction:
-```bash
-python ZenGarden.py --style electronic-pop
-```
-
 ---
 
 # 📝 Creator Workflow
@@ -240,16 +225,7 @@ ZenGarden is designed for:
 
 ```
 ZenGarden/
-├── profiles/
-│   └── artist identities
-├── songs/
-│   └── song concepts
-├── styles/
-│   └── genre frameworks
-├── assets/
-│   └── artwork and media
-├── OliviaAI/
-│   └── creative intelligence modules
+├── SongTitle.txt
 └── ZenGarden.py
 ```
 
