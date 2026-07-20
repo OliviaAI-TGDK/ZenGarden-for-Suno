@@ -163,7 +163,7 @@ python ZenGarden.py BPM:128 Frequency_Hz:144 profile:StyleProfile.txt
 ```bash
 144D Electronic Foundation
 BPM: 118
-Frequency_Hz: 432
+Frequency_Hz: 144
 
 Style:
 Future folk electronic
