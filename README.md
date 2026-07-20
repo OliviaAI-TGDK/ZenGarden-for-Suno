@@ -161,7 +161,7 @@ python ZenGarden.py BPM:128 Frequency_Hz:144 profile:StyleProfile.txt
 
 ### Copy Prompt:
 ```bash
-144D Electronic Foundation
+Artist Name 144D Electronic Foundation
 BPM: 118
 Frequency_Hz: 144
 
