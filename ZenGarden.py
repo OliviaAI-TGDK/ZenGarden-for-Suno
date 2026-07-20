@@ -210,6 +210,21 @@ class OliviaSuno:
 
 
 
+class MQIPEncryption:
+    def __init__(self, key_length=128):
+        self.key_length = key_length
+        self.key = self.generate_key()
+
+    def generate_key(self):
+        import secrets
+        return secrets.token_hex(self.key_length // 8)
+
+    def encrypt(self, message):
+        return "".join(format(ord(char) ^ ord(self.key[i % len(self.key)]), "02x") for i, char in enumerate(message))
+
+    def decrypt(self, encrypted_message):
+        return "".join(chr(int(encrypted_message[i:i+2], 16) ^ ord(self.key[i // 2 % len(self.key)])) for i in range(0, len(encrypted_message), 2))
+
 def resonance(settings, foundation):
 
     import hashlib
@@ -227,10 +242,13 @@ def resonance(settings, foundation):
         sort_keys=True
     ).encode()
 
-    return hashlib.sha512(
+    resonance_hash = hashlib.sha512(
         encoded
-    ).hexdigest()
+    ).hexdigest()[:24]
 
+    encrypted = MQIPEncryption().encrypt(resonance_hash)
+
+    return encrypted.encode().hex()[:24]
 
 def load_style_file(path):
 
@@ -283,3 +301,25 @@ if __name__ == "__main__":
             Olivia.foundation
         )
     )
+
+class MQIPEncryption:
+    def __init__(self, key_length=128):
+        self.key_length = key_length
+        self.key = self.generate_key()
+
+    def generate_key(self):
+        import secrets
+        return secrets.token_hex(self.key_length // 8)
+
+    def encrypt(self, message):
+        return ''.join(
+            format(ord(char) ^ ord(self.key[i % len(self.key)]), '02x')
+            for i, char in enumerate(message)
+        )
+
+    def decrypt(self, encrypted_message):
+        return ''.join(
+            chr(int(encrypted_message[i:i+2], 16) ^
+            ord(self.key[i // 2 % len(self.key)]))
+            for i in range(0, len(encrypted_message), 2)
+        )
