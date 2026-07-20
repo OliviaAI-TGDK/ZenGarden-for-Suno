@@ -319,7 +319,7 @@ class MQIPEncryption:
 
     def decrypt(self, encrypted_message):
         return ''.join(
-            chr(int(encrypted_message[i:i+2], 16) ^
+            chr(int(encrypted_message[i:i+2], 12) ^
             ord(self.key[i // 2 % len(self.key)]))
             for i in range(0, len(encrypted_message), 2)
         )
