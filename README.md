@@ -160,6 +160,72 @@ python ZenGarden.py BPM:128 Frequency_Hz:144 profile:StyleProfile.txt
 ```
 
 ### Copy Prompt:
+```bash
+144D Electronic Foundation
+BPM: 118
+Frequency_Hz: 432
+
+Style:
+Future folk electronic
+Cosmic progressive pop
+ULTRA sunrise anthem
+Emotional acoustic EDM
+Cinematic space folk
+J-pop cyber PLUR warmth
+Dreamwave festival energy
+Humanistic AI-inspired soundscape
+
+Production:
+Acoustic guitar foundation
+Organic percussion
+Crystalline synth layers
+Warm piano textures
+Deep melodic bass
+Celestial vocal harmonies
+Wide stereo atmosphere
+Evolving harmonic movement
+Analog-inspired synth warmth
+Atmospheric pads and textures
+Progressive emotional builds
+Detailed spatial sound design
+
+Structure:
+Acoustic cosmic intro
+Story-driven verse
+Emotional vocal lift
+Expansive pre-drop tension
+Massive melodic sunrise drop
+Piano reflection
+Harmonic bridge
+Final universal climax
+Outro fading into infinite space
+
+Emotion:
+Hopeful exploration
+Connection across dimensions
+Human heart meets technology
+Nostalgia for tomorrow
+Peaceful festival unity
+PLUR energy and compassion
+
+Signature:
+Infinite melody.
+Recursive rhythm.
+A human heartbeat among the stars.
+
+
+
+
+Identity:
+Sunset Hotel creates emotional electronic worlds.
+Every frequency carries a memory.
+Every rhythm tells a story.
+Every song is a journey beyond the horizon.
+Resonance:
+fce4ac94130c4097df7deeb1331eca79df325cb80ed215a6a670d085b0793280bd1d61f8c57e76a69bbf4e79a05b1061e5fcea2e5a973a3356293e9406292eda
+```
+
+### Paste Prompt as Suno Style:
 
 ---
 
