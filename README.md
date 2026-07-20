@@ -217,7 +217,7 @@ A human heartbeat among the stars.
 
 
 Identity:
-Sunset Hotel creates emotional electronic worlds.
+Artist Name creates emotional electronic worlds.
 Every frequency carries a memory.
 Every rhythm tells a story.
 Every song is a journey beyond the horizon.
