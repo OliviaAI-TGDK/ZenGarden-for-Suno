@@ -1,0 +1,76 @@
+---
+## Copyright Notice
+**© 2026 TGDK. All Rights Reserved.**
+This work, **ZenGarden**, is part of the **OliviaAI Ecosystem** and is protected by copyright law.
+Unauthorized reproduction, distribution, or modification is prohibited without express written permission.
+
+---
+
+## BFE License (Business-Friendly License for Embedded Systems)
+**Version 1.0**
+
+### 1. Definitions
+- **"Licensor"**: Sean Tichenor (Jade Coderight), the copyright holder of **ZenGarden** and the **OliviaAI Ecosystem**.
+- **"Work"**: The software, documentation, and creative assets provided under this license, including **ZenGarden** and its associated tools.
+- **"Derivative Work"**: Any modification, adaptation, or extension of the Work.
+- **"Recipient"**: Any individual or entity receiving the Work under this license.
+
+---
+
+### 2. Grant of License
+The Licensor grants the Recipient a **non-exclusive, worldwide, royalty-free, revocable** license to:
+- Use the Work as part of the **OliviaAI Ecosystem**.
+- Modify the Work to create Derivative Works **exclusively for use within the OliviaAI Ecosystem**.
+- Distribute the Work or Derivative Works **only in binary or object code form**, provided that:
+  - The Work or Derivative Works are **not sold, sublicensed, or otherwise monetized** without prior written consent from the Licensor.
+  - All copies of the Work or Derivative Works **retain the copyright notice** and this license.
+
+---
+### 3. Restrictions
+The Recipient **shall not**:
+- Use the Work or Derivative Works in any way that competes with the **OliviaAI Ecosystem** or the Licensor’s business.
+- Remove, alter, or obscure the copyright notice or this license.
+- Use the Licensor’s trademarks, logos, or brand identity without explicit permission.
+- Reverse engineer, decompile, or disassemble the Work, except as permitted by applicable law.
+
+---
+### 4. Intellectual Property
+- The Work and all contributions to it **remain the exclusive property of the Licensor**.
+- The Recipient **does not acquire any ownership rights** to the Work or Derivative Works.
+- The Licensor reserves all rights not explicitly granted in this license.
+
+---
+### 5. Termination
+This license **automatically terminates** if the Recipient violates any of its terms.
+Upon termination, the Recipient must **cease all use, modification, and distribution** of the Work and Derivative Works.
+
+---
+### 6. Disclaimer of Warranty
+THE WORK IS PROVIDED **"AS IS"** WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO:
+- Merchantability
+- Fitness for a particular purpose
+- Non-infringement
+
+THE LICENSOR **SHALL NOT BE LIABLE** FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES, INCLUDING BUT NOT LIMITED TO PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES, LOSS OF USE, DATA, OR PROFITS, OR BUSINESS INTERRUPTION.
+
+---
+### 7. Limitation of Liability
+IN NO EVENT SHALL THE LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE WORK OR THIS LICENSE.
+
+---
+### 8. Governing Law
+This license shall be governed by and construed in accordance with the laws of **Kentucky, United States**, without regard to its conflict of law provisions.
+
+---
+### 9. Miscellaneous
+- **Severability**: If any provision of this license is found to be invalid or unenforceable, the remaining provisions shall remain in full force and effect.
+- **Entire Agreement**: This license constitutes the **entire agreement** between the Licensor and the Recipient regarding the Work.
+- **Amendments**: Any amendments to this license must be **in writing and signed by the Licensor**.
+
+---
+### 10. Attribution
+Any use, modification, or distribution of the Work or Derivative Works must include the following attribution:
+> **"© 2026 Sean Tichenor (Jade Coderight). Part of the OliviaAI Ecosystem. Licensed under the BFE License."**
+
+---
+**End of License**
